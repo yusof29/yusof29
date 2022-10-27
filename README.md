@@ -7,11 +7,11 @@ A dedicated and hard-working person seeking to obtain a career in front-end web 
 ---
 
 ### Current Projects <br/>
-<!-- > ⭐️ [Weather App](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
+> ⭐️ [Goodall](https://github.com/yusof29/goodal) - E-commerce app
 
-> ⭐️ [Goodall](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
+> ⭐️ [WeatherCity](https://github.com/yusof29/weathercity) - Web application that helps you find the current weather in your city. A short react project to refresh myself on the best practices of api's when used with react.
 
-> ⭐️ [Rtfds](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style. -->
+> ⭐️ [YusofCodes](https://github.com/yusof29/portfolio) - Portfolio Website Built and Designed by me.
 
 #
 
