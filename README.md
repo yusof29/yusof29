@@ -6,6 +6,15 @@ A dedicated and hard-working person seeking to obtain a career in front-end web 
 
 ---
 
+### Current Projects <br/>
+<!-- > ⭐️ [Weather App](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
+
+> ⭐️ [Goodall](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
+
+> ⭐️ [Rtfds](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style. -->
+
+#
+
 ###  Tools & Technologies I Have Used
 
 <img align='left' alt="/" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -19,7 +28,11 @@ A dedicated and hard-working person seeking to obtain a career in front-end web 
 <br/>
 
 #
-          
+
+### Connect with Me
+- [Portfolio](https://yusofcodes.netlify.app/) <br/>
+- [Linkedin](https://www.linkedin.com/in/yusofpaciente) <br/>
+- [Facebook](https://www.facebook.com/noeyeat) <br/> 
           
           
      
