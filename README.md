@@ -33,6 +33,8 @@ A dedicated and hard-working person seeking to obtain a career in front-end web 
 - [Portfolio](https://yusofcodes.netlify.app/) <br/>
 - [Linkedin](https://www.linkedin.com/in/yusofpaciente) <br/>
 - [Facebook](https://www.facebook.com/noeyeat) <br/> 
+- [Email](yusofpaciente29@gmail.com) <br/> 
+
           
           
      
