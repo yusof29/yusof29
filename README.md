@@ -11,7 +11,7 @@ A dedicated and hard-working person seeking to obtain a career in front-end web 
 
 > ⭐️ [WeatherCity](https://github.com/yusof29/weathercity) - Web application that helps you find the current weather in your city. A short react project to refresh myself on the best practices of api's when used with react.
 
-> ⭐️ [YusofCodes](https://github.com/yusof29/portfolio) - Personal portfolio website Built and Designed by me
+> ⭐️ [YusofCodes](https://github.com/yusof29/yusofcodes) - Personal portfolio website Built and Designed by me
 
 #
 
