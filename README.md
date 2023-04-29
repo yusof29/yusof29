@@ -9,11 +9,11 @@ Through my studies, I've gained a solid understanding of web development concept
 
 ### Current Projects <br/>
 
+> 🧴 [Goodall](https://github.com/yusof29/goodal_mern) - E-commerce website design that list all of goodal products on offer. Built using MERN stack, Tailwind Css for the styling and Redux Toolkit for state management.
+
 > 🍔 [Flavour Flow](https://github.com/yusof29/flavour_flow) - A website where user can enter any ingredient they have at home. the website will generate a variety of foods you can make with these ingredient.
 
 > ⛅ [WeatherCity](https://github.com/yusof29/weathercity) - Web application that helps you find the current weather in your city. A short react project to refresh myself on the best practices of api's when used with react.
-
-> 🧴 [Goodall](https://github.com/yusof29/goodal) - E-commerce website design that list all of goodal products on offer.
 
 > ⭐️ [YusofCodes](https://github.com/yusof29/yusofcodes) - Personal portfolio website Built and Designed by me
 
