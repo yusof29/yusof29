@@ -36,8 +36,6 @@ Through my studies, I've gained a solid understanding of web development concept
 
 ### Connect with Me
 - [Portfolio](https://yusofcodes.netlify.app/) <br/>
-- [Linkedin](https://www.linkedin.com/in/yusofpaciente) <br/>
-- [Facebook](https://www.facebook.com/noeyeat) <br/> 
 - [Email](mailto:yusofpaciente29@gmail.com) <br/> 
 
           
